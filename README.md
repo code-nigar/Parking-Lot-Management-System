@@ -17,13 +17,13 @@
 ---
 
 ### UI Design
-![system-login-window](resources\UI-Designs\login-UI.png)
-![dashboard-window](resources\UI-Designs\dashboard-UI.png)
-![admit-vehicle-window](resources\UI-Designs\admit-UI.png)
-![exit-vehicle-window](resources\UI-Designs\exit-UI.png)
-![GFlot-overview-window](resources\UI-Designs\overviewGF-UI.png)
-![FFlot-overview-window](resources\UI-Designs\overviewFF-UI.png)
-![parking-history-window](resources\UI-Designs\history-UI.png)
+![system-login-window](https://github.com/code-nigar/Parking-Lot-Management-System/blob/master/resources/UI-Designs/login-UI.png)
+![dashboard-window](https://github.com/code-nigar/Parking-Lot-Management-System/blob/master/resources/UI-Designs/dashboard-UI.png)
+![admit-vehicle-window](https://github.com/code-nigar/Parking-Lot-Management-System/blob/master/resources/UI-Designs/admit-UI.png)
+![exit-vehicle-window](https://github.com/code-nigar/Parking-Lot-Management-System/blob/master/resources/UI-Designs/exit-UI.png)
+![GFlot-overview-window](https://github.com/code-nigar/Parking-Lot-Management-System/blob/master/resources/UI-Designs/overviewGF-UI.png)
+![FFlot-overview-window](https://github.com/code-nigar/Parking-Lot-Management-System/blob/master/resources/UI-Designs/overviewFF-UI.png)
+![parking-history-window](https://github.com/code-nigar/Parking-Lot-Management-System/blob/master/resources/UI-Designs/history-UI.png)
 
 ---
 > Note: you may need to reconfigure the paths for sql database and use the appropriate version of mysql jdbc connector. Recommended IDE: Apache NetBeans IDE 12.0.
